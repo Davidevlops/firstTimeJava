@@ -7,6 +7,7 @@ public class Main {
     byte oneTwentyEight = 126;
     System.out.println(oneTwentyEight);
     System.out.println(aSringOfRandomCharacters);
+    System.out.println(justAFloatingNumber);
     System.out.print(oneLetterCharacter);
   }
 }
