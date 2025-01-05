@@ -2,12 +2,13 @@ public class Main {
   public static void main(String[] args) {
     char oneLetterCharacter = 66;
     String aSringOfRandomCharacters = "dhdhdhdd";
-    float justAFloatingNumber = 12.8f;
-    // float justAFloatingNumber = 12.8f;
+    float justARandomFloatingNumber = 12.8f;
+    double justARandomDoubleNumber = 12.8d;
     byte oneTwentyEight = 126;
     System.out.println(oneTwentyEight);
     System.out.println(aSringOfRandomCharacters);
-    System.out.println(justAFloatingNumber);
+    System.out.println(justARandomFloatingNumber);
+    System.out.println(justARandomDoubleNumber);
     System.out.print(oneLetterCharacter);
   }
 }
